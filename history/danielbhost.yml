@@ -1,7 +1,7 @@
 url: https://danielbhost.xyz
-status: up
-code: 200
-responseTime: 532
-lastUpdated: 2022-04-05T23:19:04.356Z
+status: down
+code: 502
+responseTime: 320
+lastUpdated: 2022-04-06T20:40:12.029Z
 startTime: Mon Jan 31 2022 19:49:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
