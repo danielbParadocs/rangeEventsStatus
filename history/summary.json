@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/danielbhost.xyz",
     "slug": "danielbhost",
     "status": "up",
-    "uptime": "88.14%",
+    "uptime": "88.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.94%",
     "uptimeMonth": "87.13%",
-    "uptimeYear": "88.14%",
+    "uptimeYear": "88.15%",
     "time": 829,
     "timeDay": 582,
     "timeWeek": 532,
@@ -72,18 +72,16 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 173,
     "timeDay": 194,
     "timeWeek": 233,
     "timeMonth": 218,
     "timeYear": 173,
-    "dailyMinutesDown": {
-      "2022-06-12": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
