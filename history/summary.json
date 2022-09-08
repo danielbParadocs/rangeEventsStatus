@@ -4,7 +4,7 @@
     "url": "https://danielbhost.xyz",
     "icon": "https://favicons.githubusercontent.com/danielbhost.xyz",
     "slug": "danielbhost",
-    "status": "up",
+    "status": "down",
     "uptime": "89.31%",
     "uptimeDay": "82.59%",
     "uptimeWeek": "80.54%",
@@ -90,8 +90,7 @@
       "2022-03-10": 611,
       "2022-03-09": 1069,
       "2022-03-08": 333,
-      "2022-03-05": 152,
-      "2022-03-02": 24
+      "2022-03-05": 152
     }
   },
   {
