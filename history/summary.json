@@ -5,18 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/danielbhost.xyz",
     "slug": "danielbhost",
     "status": "up",
-    "uptime": "90.20%",
-    "uptimeDay": "96.75%",
-    "uptimeWeek": "98.25%",
-    "uptimeMonth": "93.80%",
-    "uptimeYear": "90.20%",
-    "time": 1362,
-    "timeDay": 1227,
-    "timeWeek": 1378,
-    "timeMonth": 1450,
-    "timeYear": 1362,
+    "uptime": "90.18%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "93.81%",
+    "uptimeYear": "90.18%",
+    "time": 1359,
+    "timeDay": 1134,
+    "timeWeek": 1377,
+    "timeMonth": 1422,
+    "timeYear": 1359,
     "dailyMinutesDown": {
-      "2022-09-20": 8,
       "2022-09-19": 39,
       "2022-09-14": 130,
       "2022-09-09": 170,
@@ -92,7 +91,7 @@
       "2022-03-12": 624,
       "2022-03-11": 768,
       "2022-03-10": 611,
-      "2022-03-09": 21
+      "2022-03-09": 195
     }
   },
   {
@@ -107,9 +106,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 184,
-    "timeDay": 170,
-    "timeWeek": 316,
-    "timeMonth": 236,
+    "timeDay": 218,
+    "timeWeek": 236,
+    "timeMonth": 239,
     "timeYear": 184,
     "dailyMinutesDown": {}
   },
@@ -124,11 +123,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 235,
-    "timeDay": 317,
-    "timeWeek": 320,
+    "time": 236,
+    "timeDay": 403,
+    "timeWeek": 316,
     "timeMonth": 288,
-    "timeYear": 235,
+    "timeYear": 236,
     "dailyMinutesDown": {
       "2022-07-08": 519
     }
