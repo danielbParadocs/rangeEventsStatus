@@ -4,18 +4,19 @@
     "url": "https://danielbhost.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/danielbhost.xyz.ico",
     "slug": "danielbhost",
-    "status": "up",
-    "uptime": "74.41%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "74.43%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "74.39%",
-    "time": 1597,
-    "timeDay": 567,
-    "timeWeek": 1534,
-    "timeMonth": 2153,
-    "timeYear": 1603,
+    "uptimeYear": "74.40%",
+    "time": 1627,
+    "timeDay": 8571,
+    "timeWeek": 3038,
+    "timeMonth": 2514,
+    "timeYear": 1634,
     "dailyMinutesDown": {
+      "2023-02-01": 0,
       "2023-01-15": 21,
       "2022-12-30": 16,
       "2022-12-28": 16,
@@ -162,8 +163,7 @@
       "2022-04-11": 104,
       "2022-04-09": 63,
       "2022-04-06": 41,
-      "2022-04-05": 244,
-      "2022-04-04": 53
+      "2022-04-05": 244
     }
   },
   {
