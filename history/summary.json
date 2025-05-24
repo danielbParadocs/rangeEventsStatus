@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-24": 355,
+      "2025-05-24": 379,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
@@ -388,19 +388,19 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 206,
+    "time": 204,
     "timeDay": 178,
-    "timeWeek": 163,
-    "timeMonth": 202,
+    "timeWeek": 165,
+    "timeMonth": 201,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2025-05-24": 0
+      "2025-05-24": 24
     }
   },
   {
