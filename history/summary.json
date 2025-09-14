@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/danielbhost.xyz.ico",
     "slug": "danielbhost",
     "status": "down",
-    "uptime": "47.25%",
+    "uptime": "47.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-13": 81,
+      "2025-09-14": 99,
+      "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
@@ -379,8 +380,7 @@
       "2024-09-18": 1440,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
-      "2024-09-15": 1440,
-      "2024-09-14": 1440
+      "2024-09-15": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
-    "timeDay": 249,
-    "timeWeek": 186,
-    "timeMonth": 218,
-    "timeYear": 208,
+    "timeDay": 134,
+    "timeWeek": 171,
+    "timeMonth": 215,
+    "timeYear": 209,
     "dailyMinutesDown": {
       "2025-05-24": 24
     }
@@ -414,10 +414,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 343,
-    "timeDay": 483,
-    "timeWeek": 307,
-    "timeMonth": 326,
+    "time": 342,
+    "timeDay": 113,
+    "timeWeek": 263,
+    "timeMonth": 327,
     "timeYear": 353,
     "dailyMinutesDown": {
       "2025-05-11": 118,
